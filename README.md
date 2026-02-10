@@ -3,65 +3,51 @@
 
 This repository contains a 5-year financial forecast model in Excel, outlining projected income statements for the years 2023 through 2027. It includes detailed breakdowns of revenue, cost of goods sold (COGS), operating expenses, and profit calculations under Scenario 2.
 
-## File Included
+Financial Forecast Model (2023–2027)
+Business Problem
 
-- `Financial-Forecast-Model.xlsx` – Excel workbook with built-in formulas and structured income statement projections.
+Early-stage and scaling businesses often lack long-term financial visibility. Without structured projections, it becomes difficult to evaluate profitability, cost control, and operational scalability over multiple years.
 
-## Key Components
+Objective
 
-### Revenue
-Yearly projections from $79,900 in 2023 to $566,291 in 2027.
+To build a 5-year financial forecast model that:
 
-### Cost of Goods Sold (COGS)
-- Manufacturing Costs  
-- Order Fulfillment Costs  
-Total COGS increases as the business scales.
+Projects revenue growth from 2023 to 2027
 
-### Gross Profit and Margin
-- **Gross Profit** = Revenue – COGS  
-- Gross Margin remains consistent at 78% across all years.
+Breaks down COGS and operating expenses
 
-### Operating Expenses
-Includes:
-- Warehouse Rent  
-- Salaries & Payroll  
-- Marketing  
-- Other Miscellaneous Expenses  
+Calculates gross margin, operating margin, and net profit
 
-### Operating Profit and Margin
-- **Operating Profit** = Gross Profit – Operating Expenses  
-- Operating Margin improves from –47% in 2023 to 37% in 2027.
+Evaluates long-term profitability under Scenario 2
 
-### Tax and Net Profit
-- Taxes are calculated based on operating profit.
-- **Net Profit** = Operating Profit – Tax
+Key Insights
 
-## Key Formulas
+Revenue scales from $79,900 in 2023 to $566,291 in 2027 (over 7x growth).
 
-| Metric | Formula |
-|--------|---------|
-| Total COGS | Manufacturing + Order Fulfillment |
-| Gross Profit | Revenue – Total COGS |
-| Gross Margin (%) | (Gross Profit ÷ Revenue) × 100 |
-| Total Operating Expenses | Sum of Rent, Payroll, Marketing, Other |
-| Operating Profit | Gross Profit – Total Operating Expenses |
-| Operating Margin (%) | (Operating Profit ÷ Revenue) × 100 |
-| Net Profit | Operating Profit – Tax |
+Gross margin remains stable at 78%, indicating strong pricing and cost control.
 
-## Use Cases
+Operating margin improves significantly from –47% (loss) in 2023 to +37% in 2027.
 
-- Financial modeling and analysis
-- Business planning and budgeting
-- Academic or training projects
-- Investor pitch preparation
+The business transitions from early-stage loss to strong profitability within five years.
 
-## How to Use
+Operating leverage becomes visible as revenue growth outpaces fixed cost expansion.
 
-1. Download the Excel file.
-2. Update assumptions (e.g., revenue, cost inputs) as needed.
-3. All key metrics and margins will auto-calculate.
+Financial Impact
 
-## License
+Demonstrates a shift from negative operating profit to sustained profitability.
 
-This project is open for educational and non-commercial use. For commercial usage, please request permission.
+Highlights the scalability potential of the business model.
 
+Shows how margin stability combined with revenue growth drives long-term net profit expansion.
+
+Tools Used
+
+Microsoft Excel
+
+Multi-year income statement forecasting
+
+Margin analysis (Gross, Operating, Net)
+
+Structured financial modeling
+
+Scenario-based projections
